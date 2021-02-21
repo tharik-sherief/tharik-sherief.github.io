@@ -1,6 +1,6 @@
-# thariksherief.github.io     
+# tharik-sherief.github.io     
 
-### The website is deployed [here](https://thariksherief1.github.io)
+### The website is deployed [here](https://tharik-sherief1.github.io)
 
 ## Description
 This project forks from [https://github.com/nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume), I made some modifications and adjustments for my own use
